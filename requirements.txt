@@ -81,7 +81,7 @@ patsy==0.5.1
 pexpect==4.0.1
 photutils==0.7.2
 pickleshare==0.7.4
-Pillow==3.1.2
+Pillow==6.2.0
 plainbox==0.25
 prompt-toolkit==1.0.15
 protobuf==3.11.2
