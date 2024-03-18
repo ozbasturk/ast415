@@ -1,4 +1,4 @@
-astropy==3.2.3
+astropy==5.3.3
 matplotlib==2.0.2
 numpy==1.18.1
 pandas==0.24.2
